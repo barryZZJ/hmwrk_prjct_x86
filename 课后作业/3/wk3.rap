@@ -8,6 +8,7 @@ GroupExpand=1
 [Files]
 1=wk3.Asm
 2=2.asm
+3=3.asm
 [MakeFiles]
 0=wk3.rap
 1=wk3.rc
@@ -39,8 +40,9 @@ Menu=0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0
 Group=Assembly,Resources,Misc
 1=2
 2=1
+3=1
 [AutoLoad]
-AutoLoad=2
+AutoLoad=1
 [VersionControl]
 Settings=1246
 Milestones=129
@@ -84,13 +86,15 @@ ProductVer4Range=0
 6=00FFFFFF
 7=00FFFFFF
 [PTimer]
-PTimer=17203
+PTimer=11759875
 [Collapse]
 2=
 1=
+3=
 [Size]
-2=0,0,0,0,354
-1=0,0,0,0,182
+2=0,0,0,0,259
+1=0,0,0,0,13
+3=0,0,521,199,919
 [GroupExpand]
 GroupExpand=1,0,1,0
 [BookMark]
@@ -110,3 +114,4 @@ GroupExpand=1,0,1,0
 1=
 2=
 0=
+3=
